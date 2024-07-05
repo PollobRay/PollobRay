@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pollobray" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="pollobray" /></a>
-<a href="https://www.youtube.com/c/pollobray" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="pollobray"  /></a>
+<a href="https://linkedin.com/in/pollobray" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40px" alt="pollobray" /></a>
+<a href="https://www.youtube.com/c/pollobray" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="40px" alt="pollobray"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
