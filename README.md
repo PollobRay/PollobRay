@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **AI**
 
 <h3 align="left">Portfolio:</h3>
-<a href="pollobray.github.io">👩🏽‍💻 pollobray.github.io</a>
+<a href="https://pollobray.github.io/">👩🏽‍💻 pollobray.github.io</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
