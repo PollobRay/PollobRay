@@ -1,4 +1,4 @@
-![ray](https://github.com/PollobRay/PollobRay/assets/96225924/0979dd48-6e98-495d-9dea-97f1aa7dab2b)
+![ray](https://github.com/PollobRay/PollobRay/assets/96225924/b7fde870-fd3f-4f8d-8133-3ccbd8ee0f57)
 
 
 
