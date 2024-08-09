@@ -1,4 +1,4 @@
-![ray](https://github.com/PollobRay/PollobRay/assets/96225924/b7fde870-fd3f-4f8d-8133-3ccbd8ee0f57)
+![Grey Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/5d1249a3-0656-4cbb-ac31-f7f17bf405bf)
 
 
 
