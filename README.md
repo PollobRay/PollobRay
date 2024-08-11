@@ -1,4 +1,5 @@
-![Grey Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/5d1249a3-0656-4cbb-ac31-f7f17bf405bf)
+
+![Grey Minimalist Corporate Personal Profile LinkedIn Banner(1)](https://github.com/user-attachments/assets/8d6cd7af-0bb9-4656-bfb3-438dda62872e)
 
 
 
@@ -34,6 +35,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
