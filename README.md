@@ -4,7 +4,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Pollob Ray</h1>
-<h3 align="center">CSE Graduate | Problem Solver | Passionate about AI & ML</h3>
+<h3 align="center"> Problem Solver | Passionate about AI & ML | Data Analysis </h3>
+<!--- CSE Graduate | --!>
 
 - 🌱 I’m currently learning **AI**
 
